@@ -23,7 +23,9 @@ This microservice aggregates data from multiple external APIs and provides it th
 
 ## APIs Used
 
+- **Food**: [TheMealDB](https://www.themealdb.com/api.php) - Returns random meal information.
 - **Animals**: [Dog CEO](https://dog.ceo/dog-api/) - Provides a random dog image.
+- **Weather**: [Open-Meteo](https://open-meteo.com/) - Retrieves current weather for NYC.
 - **Countries**: [REST Countries](https://restcountries.com/) - Retrieves data on Canada.
 - **Sports**: [TheSportsDB](https://www.thesportsdb.com/) - Provides recent events from the English Premier League.
 
